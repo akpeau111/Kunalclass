@@ -1,0 +1,12 @@
+sudo apt-get update -y : for updating instance
+sudo apt-get install apache2 -y : for apache server
+cd /var/www/html
+sudo rm index.html
+sudo nano index.html
+ctrl + s
+ctrl + x
+
+..............................................................
+
+sudo apt-get install nfs-common -y : for ubuntu
+sudo yum install nfs-utils -y : for redhat and amazon linux
